@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! Cosmin here, developer from Romania. ✨ Creative ideas ✨ are what get me started, and 🐛 bugs 🐛 are what keep me going."</h2>
+<h2 align="left">Hi 👋! Cosmin here, developer from Romania. ✨ Creative ideas ✨ are what get me started, and 🐛 bugs 🐛 are what keep me going.</h2>
 
 ###
 
