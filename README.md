@@ -1,4 +1,4 @@
-<h2 align="left">Hello World! Cosmin here, developer from Romania. ✨ Ambitious ideas ✨ are what get me started, and 🐛 bugs 🐛 are what keep me going.</h2>
+<h2 align="left">Hello World! Cosmin here, developer from Romania. ✨ Ambitious ideas ✨ are what get me started, and 🐛 bugs 🐛 are what keep me going.</h2> 
 
 ###
   <img align="right" height="130" src="https://media1.giphy.com/media/JIX9t2j0ZTN9S/200w.gif?cid=6c09b9525hcannivjahbfa0c5xzapzzmikedsyg6nai0nmsp&ep=v1_gifs_search&rid=200w.gif&ct=g" style="margin:5px;"/>
